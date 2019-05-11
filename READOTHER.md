@@ -1,4 +1,8 @@
 # readme2tex
+
+This is from the wonderful work of leegao/readme2tex.  I'm just
+adding a little bit to it to test.
+
 Renders LaTeX for Github Readmes
 
 $$
