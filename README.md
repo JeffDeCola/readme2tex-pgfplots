@@ -1,7 +1,13 @@
 # readme2tex
 
+## NOTES
+
 This is from the wonderful work of leegao/readme2tex.  I'm just
 adding a little bit to it to test.
+
+Can't get --usepackage "tikz" to work on my machine.
+
+## OVERVIEW
 
 Renders LaTeX for Github Readmes
 
