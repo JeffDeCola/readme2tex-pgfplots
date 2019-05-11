@@ -10,8 +10,9 @@ echo "rm -r svgs/"
 #rm -r svgs/
 echo " "
 
-echo "Run readme2tex"
-python -m readme2tex --usepackage "tikz" --usepackage "xcolor" --readme READOTHER.md --output README.md --nocdn
+echo "Run readme2tex - Can't get tikz to work on my machine"
+#python -m readme2tex --usepackage "tikz" --usepackage "xcolor" --readme READOTHER.md --output README.md --nocdn
+python -m readme2tex --usepackage "xcolor" --readme READOTHER.md --output README.md --nocdn
 echo " "
 
 echo "For more information on readme2tex, read my cheat sheet"
